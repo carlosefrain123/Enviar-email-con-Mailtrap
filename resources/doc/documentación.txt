@@ -1,3 +1,6 @@
 1)Se ingresa a Mailtrup, lo cual tienes que tener tu SMTP para colocarlo en el. env
 2) Se coloca en la terminal:
 php artisan make:mail ContactanosMailable
+3) Para visualizar la interfaz de verificación de email:
+"php artisan vendor:publish --tag=laravel-notifications
+"
