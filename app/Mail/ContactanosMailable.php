@@ -31,7 +31,7 @@ class ContactanosMailable extends Mailable
             //Quien lo envia
             from: new Address('efrain1@gmail.com','Carlos Efrain'),
             //Asunto
-            subject: 'Contactanos Mailable',
+            subject: 'Información de Contacto',
         );
     }
 
