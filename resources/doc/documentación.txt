@@ -1,0 +1,1 @@
+1)Se ingresa a Mailtrup, lo cual tienes que tener tu SMTP para colocarlo en el. env
